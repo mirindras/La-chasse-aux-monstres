@@ -20,7 +20,7 @@ bundle install
 
 entrer dans votre terminal 
 ```
-monstre.rb
+application.rb
 ```
 pour lancer le programme
 
